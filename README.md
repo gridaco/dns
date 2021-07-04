@@ -1,4 +1,4 @@
-# domains.bridged.xyz
+# domains.grida.co
 Open Domain Registarar - We take no extra fees for registering domain
 
 
