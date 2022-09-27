@@ -3,11 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3010",
     "build": "next build",
-    "start": "next start"
+    "start": "next start -p 3010"
   },
   "dependencies": {
+    "axios": "^0.27.2",
     "dnsimple": "^6.1.0",
     "next": "12.3.1",
     "react": "18.2.0",
