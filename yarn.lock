@@ -113,6 +113,11 @@ csstype@^3.0.2:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.1.1.tgz#841b532c45c758ee546a11d5bd7b7b473c8c30b9"
   integrity sha512-DJR/VvkAvSZW9bTouZue2sSxDwdTN92uHjqeKVm+0dAqdfNykRzQ95tay8aXMBAAPpUiq4Qcug2L7neoRh2Egw==
 
+dnsimple@^6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/dnsimple/-/dnsimple-6.1.0.tgz#0f3301380771bbecec94cac0458c88045da64085"
+  integrity sha512-zamqShBQ4Qith//GOdwLCRCsp29uZKUo2yyQlvFjVeNqrEu/e1b8QLXnwFf+39Bf6aODliqgaVoPay/mZyZEPg==
+
 "js-tokens@^3.0.0 || ^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
